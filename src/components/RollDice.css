@@ -45,7 +45,7 @@
 }
 
 
-.two, .three, .four, .five, .six{
+.two, .three, n.four, .five, .six{
     display: flex;
   justify-content: space-between;
 }
